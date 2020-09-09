@@ -1,3 +1,5 @@
+### NOTE: This is a fork of CombineCommunnity's CombineRealm repo, which I'm the author of
+
 # CombineRealm
 
 ![CombineRealm Logo](CombineRealm.png)
